@@ -12,7 +12,7 @@ the camera using Apple's Vision framework, fully offline.
                        DESC
   s.homepage         = 'https://github.com/jumaboyevich/bank_card_scanner'
   s.license          = { :type => 'MIT', :file => '../LICENSE' }
-  s.author           = { 'Taqsit' => 'ilxomjon.asraqulov@gmail.com' }
+  s.author           = { 'jumaboyevich' => 'ilxomjon.asraqulov@gmail.com' }
   s.source           = { :path => '.' }
   s.source_files = 'bank_card_scanner/Sources/bank_card_scanner/**/*'
   s.dependency 'Flutter'

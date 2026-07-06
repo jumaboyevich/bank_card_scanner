@@ -1,4 +1,4 @@
-group = "uz.taqsit.bank_card_scanner"
+group = "io.github.jumaboyevich.bank_card_scanner"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -26,7 +26,7 @@ plugins {
 }
 
 android {
-    namespace = "uz.taqsit.bank_card_scanner"
+    namespace = "io.github.jumaboyevich.bank_card_scanner"
 
     compileSdk = 36
 

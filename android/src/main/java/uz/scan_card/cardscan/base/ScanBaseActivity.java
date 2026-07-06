@@ -52,7 +52,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.concurrent.Semaphore;
 
-import uz.taqsit.bank_card_scanner.R;
+import io.github.jumaboyevich.bank_card_scanner.R;
 import uz.scan_card.cardscan.base.ssd.DetectedSSDBox;
 
 /**

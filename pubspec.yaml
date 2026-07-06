@@ -35,7 +35,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: uz.taqsit.bank_card_scanner
+        package: io.github.jumaboyevich.bank_card_scanner
         pluginClass: BankCardScannerPlugin
       ios:
         pluginClass: BankCardScannerPlugin

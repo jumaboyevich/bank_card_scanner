@@ -7,7 +7,7 @@ import android.content.Context;
 import java.io.IOException;
 import java.nio.MappedByteBuffer;
 
-import uz.taqsit.bank_card_scanner.R;
+import io.github.jumaboyevich.bank_card_scanner.R;
 
 class ResourceModelFactory extends ModelFactory {
     @Override

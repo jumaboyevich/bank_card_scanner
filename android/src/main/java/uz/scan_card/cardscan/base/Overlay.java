@@ -12,7 +12,7 @@ import android.graphics.Xfermode;
 import android.util.AttributeSet;
 import android.view.View;
 
-import uz.taqsit.bank_card_scanner.R;
+import io.github.jumaboyevich.bank_card_scanner.R;
 
 
 class Overlay extends View {

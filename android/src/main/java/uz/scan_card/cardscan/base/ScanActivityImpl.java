@@ -17,7 +17,7 @@ import androidx.appcompat.content.res.AppCompatResources;
 
 import java.util.List;
 
-import uz.taqsit.bank_card_scanner.R;
+import io.github.jumaboyevich.bank_card_scanner.R;
 import uz.scan_card.cardscan.base.image.BitmapHelper;
 
 public class ScanActivityImpl extends ScanBaseActivity {

@@ -1,4 +1,4 @@
-package uz.taqsit.bank_card_scanner
+package io.github.jumaboyevich.bank_card_scanner
 
 import android.app.Activity
 import android.content.Intent

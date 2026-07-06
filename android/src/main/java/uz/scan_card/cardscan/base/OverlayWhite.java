@@ -3,7 +3,7 @@ package uz.scan_card.cardscan.base;
 import android.content.Context;
 import android.util.AttributeSet;
 
-import uz.taqsit.bank_card_scanner.R;
+import io.github.jumaboyevich.bank_card_scanner.R;
 
 
 public class OverlayWhite extends Overlay {
